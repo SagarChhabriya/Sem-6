@@ -70,3 +70,28 @@ The languages can be defined in different ways, such as
 
 Descriptive Ex: Write a string that ends with a;
 
+
+
+## Recap Lecture 1
+- Intro to course title
+- Formal and In-formal languages
+- Alphabets
+- Strings, Null string,
+- Words, valid and in-valid alphabets
+- length of a string
+- reverse of a string
+- defining languages
+- descriptive definition of languages
+- EQUAL, EVEN-EVEN, INTEGER, EVEN, $\{a^n b^n\}, \{a^n b^n c^n\}$
+- FACTORIAL, DOUBLEFACTORIAL, SQUARE, DOUBLESQUARE, PRIME, PALINDROME
+
+Language: Start with b and end with b<br>
+Word: That belong to a particular language<br>
+baab | Word <br>
+bab | Word<br>
+abb | String<br>
+baa | String<br>
+
+- Three methods of defining languages: Descriptive, Reucrsive, Regex
+
+\

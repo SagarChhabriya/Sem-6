@@ -58,6 +58,26 @@
 10. Money makes the World Go Round
 
 ### Info Sec is for?
+- Personal
+- Organisation
+- Govt and National
+
+
+### How is infor sec implemented?
+- Leadersihp commitment
+    - Tone at the top
+- Info Sec Manager or CISO (Cheif Information Security Officer)
+    - SOPs(Standard Operating Procedure)
+- Business User
+
+## Info Sec Hardening
+    -( Hardening: Process of configuring IT assets to maximize security; for self defence.)
+
+- IT Assets: Login:incognito,  Cache/Browser History, Encryption in Database, 2FA in emails, physical sec: hardware cover up; Hiding Files;
+- Security Hardening
+
+
+
 
 
 
