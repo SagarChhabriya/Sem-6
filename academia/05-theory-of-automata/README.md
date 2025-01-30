@@ -100,3 +100,29 @@ baa | String<br>
 - Even Double Factorial: 8!! = 8 * 6 * 4 * 2
 - Odd Double Factorial: 9!! =  9 * 7 * 5 * 3 * 1 
 
+
+## Task:
+
+
+### Plus
+$\sum^+$
+
+
+1. $(S^+)^* = (S^*)^*$
+2. $(S^+)^+ = (S)^+$
+3. $(S^*)^+ = (S^+)^*$
+
+## Recursive Definitions: A Language that Follows Rules
+The following three steps are used in recursive definition
+1. Some basic words are specified in the language.
+2. Rules for constructing more words are defined in the language
+3. No String except those
+
+
+### Example:
+Defining language of INTEGER<br>
+Step1: 1 is in INTEGER<br>
+Step2: IF x is in INTEGER then x + 1 and x - 1 are also in INTEGER<br>
+Step3: No String those constructed in above, are allowed to be in INTEGER.<br>
+
+### Example
