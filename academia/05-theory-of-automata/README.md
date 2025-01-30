@@ -94,4 +94,9 @@ baa | String<br>
 
 - Three methods of defining languages: Descriptive, Reucrsive, Regex
 
-\
+
+## Jan 30
+- Double Factorial: Even, and Odd Double Factorial
+- Even Double Factorial: 8!! = 8 * 6 * 4 * 2
+- Odd Double Factorial: 9!! =  9 * 7 * 5 * 3 * 1 
+
