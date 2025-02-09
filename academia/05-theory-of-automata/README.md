@@ -126,3 +126,40 @@ Step2: IF x is in INTEGER then x + 1 and x - 1 are also in INTEGER<br>
 Step3: No String those constructed in above, are allowed to be in INTEGER.<br>
 
 ### Example
+
+
+
+## Jan
+- Kleen Star Closure
+- Kleen Plus
+- Concatenation: (ab)*
+- Union: OR (a+b)*
+
+
+
+(a + b)2
+
+a2b2
+
+
+
+aa, bb, aabb, bbaa
+
+(a+b)2+(a+b)2 
+
+(a*+b*)*
+
+- ((a+b)* (a+b)*)* ✅ Even
+- ((a+b)* (a+b)*)* + (a+b) ✅ Odd
+
+-((a+b)* + (a+b)*)*
+
+
+
+
+
+
+
+
+
+

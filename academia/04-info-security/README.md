@@ -78,9 +78,39 @@
 
 
 
+## Chapter 2: IS Principles
+1. There is no such things as absolute security
+2 . The three security goals are CIA.
+3. Defense in depth as strategy.
+4. When left on their own, people tend to make the worst security decisions.
+5. Computer scurity depends on two types of requirement: Functional and Assurance
+6. Security through obscurity is not an answer
+7. Security = Risk Management It's critical
+8. The three types of security controls are preventive, detective, and responsive.
+9. Complexity is the enemy of security.
+10. Fear, uncertainity, and doubt do not worki in selling security at one.
+11. People, Process, and Technology are all needed to adequately secure a system or facility.
+12. Open disclosure of vulnerabilities is good for security.
 
 
 
+### CLass Activities
+
+### Case Exercise
+The next day at SLS(Secure Login System) found everone in technical support busy restoring computer system to their former state and installing new virus and worm control software. Amy found herself learning how to re-install desktop computer operating system and applications as SLS made a heric effor to recover from the attack of the pervious day.
+
+- Discussion Questions
+1. Do you think this event was caused by insider or outsider?
+2. Other than installing virus and worm control software, what can SLS do to prepare for the next incident?
+3. Do you think this attack was the result of a virus or a worm?
 
 
+### Case Example
+Ethical Decision making often an attacker crafts e-mail attacks containing malware designed to take advantage of the curiosity or even greed of the recipients. Imagine that the message body Amy saw on the email from Davey had been "See our manager" salaries and SSNs (Social Security Number) instead of "Funniest joke you'll see today"
 
+1. Would it be ethical for Amy to open such a file?
+2. If such an email came in, what would be the best action to take.
+
+
+### Exercise
+www.opendns.com/phishing-quiz/
