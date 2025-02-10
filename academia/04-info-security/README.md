@@ -114,3 +114,77 @@ Ethical Decision making often an attacker crafts e-mail attacks containing malwa
 
 ### Exercise
 www.opendns.com/phishing-quiz/
+
+
+
+## Feb 10, 2025
+
+### Chapter 2: Principles of IS
+
+### Chapter 3: Steps to Fix a Crime, Week 3
+
+- Case Study: The Home Debot Data Breach
+- Case Study: Ebay Data Breach
+- Case Study: Year of Mega Breaches
+
+### Steps to Fix a Crime
+    - Identify
+    - Analyse and Evaluate
+    - Treat
+
+
+
+### Vulnerability, Threat & Risk
+
+- Vulnerability: Weakness of an asset
+- Threat: any event that has potential to bring harm 
+- Risk: Potential for loss or damage when a threat exploits a vulnerability.
+
+
+### How seriously should you take threats to network security?
+Which group do you belong to?
+    - No one is coming after my computer
+    - The sky is falling
+    - Middle ground
+
+### Cyber Attacks
+    - Malware
+    - Phishing
+    - Password Attacks
+    - Dos and DDOS
+    - Man in the Middle
+    - Drive By downloads
+    - Maladvertising
+    - Rogue Software
+
+
+### 1. Malware
+Computer Virus, Syware, Adware, 
+- Worms(Malicious software disguised as legitimate to trick users into installing it), 
+- Trojan(Malicious software disguised as legitimate to trick users into installing it)
+
+
+### How to stop?
+- Stop Clicking
+- Update firewall
+- Update OS
+
+                           
+### Prevention
+Traffic Analysis, Traffic Control, Recovery Management;
+
+
+### Classification of Cyber Crimes
+- Insider Attacks
+    - Person with authorized system access
+    - Dissatisfied or unhappy inside employees or contractors
+    - Motive Motive Could be revenge or greed
+
+- External Attacks
+    - Hired by an insider or an external entity to the organization
+    - Organization not only faes financial loss but also the loss of reputation
+    - Attacker usually scan and gathering information
+
+
+
+
