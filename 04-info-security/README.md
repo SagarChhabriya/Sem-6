@@ -187,4 +187,73 @@ Traffic Analysis, Traffic Control, Recovery Management;
 
 
 
+## Week 04, Feb 17 2025
+Classification of cyber crimes
 
+- Unstructured
+    - Generally persno who don't have any predefined motives to perform the cyber attack
+    - Try a test a tool readily available over the internet
+
+- Structured
+    - Performed by highly skilled and experienced people
+    - Motives of these attacks are clear in their mind
+    - 
+
+- Reasons for Commision of Cyber Crimes
+    - Money
+    - Revenge
+    - Fun
+    - Recognition
+    - Anonymity: that a cyber space provide motivates the person to commit cyber crime
+    - Cyber Espionsage: At times the govt itself is involved in cyber trespassing to keep eye on other person/network/country
+
+
+
+
+- Kinds of Cyber Crime
+    - Cyber Stalking
+    - Child Pornogrophy
+    - Forgery and Counterfeiting
+    - Software Piracy and Crime related to IPRs: (Intellectually Property Rights)
+    - Cyber Terrorism
+    - Phishing
+    - Computer Vandalism: Physical Destroying computing resources
+    - Computer Hacking
+    - Creating and Distributing viruses over internet
+    - Spamming
+    - Cross Site Scripting
+    - Online Auction Fraud
+    - Cyber Squating
+
+
+- Basic Security Terminology
+    - Hackers (General Team)
+    - White Hat Hackers(Ethical Hackers)
+    - Black Hat (Malicious Hackers)
+    - Gray Hat (Neutral Hackers)
+    - Script Kiddies (Unskilled Hackers)
+    - Activites:
+        - Authentication: 1FA, 2FA, 3FA
+        - Auditing: Reviewing
+
+
+-  Network Security Paradigms
+    - How will you protect your network?
+        - CIA
+        - Lesat Privileges
+        - Perimeter Security Approaches
+        - Layered Seucrity Approaches
+        - Proactive versus reactive
+        - Hybrid Security Methods
+
+
+- How do legeal issues impact nework security?
+    - The computer seuity act of 1987
+    - OMB Circular A-130
+    - See: www.alw.nih.gov/Seucrity/FIRST PAPERS
+    - Cert cert.org
+    - www.microsoft.com/security/default.mspx
+    - F-Secure: ww.f-secure.com
+    - SANS: www.sans.org
+
+    
