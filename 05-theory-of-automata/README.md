@@ -155,6 +155,10 @@ aa, bb, aabb, bbaa
 -((a+b)* + (a+b)*)*
 
 
+-  Syntactic (Grammar/Structure) – Making sure the sentence follows proper rules.
+-  Semantic (Meaning) – Making sure the sentence makes sense.
+
+
 
 
 
