@@ -338,4 +338,10 @@ Classification of cyber crimes
 - By adopting a **comprehensive security framework** with the right tools and technology, organizations can better protect their data, systems, and reputations in the face of increasingly sophisticated cyberattacks.
 
     
->>>>>>> 4c0bbb0a31330e9d2c7ba3c9e47e2b0957d39e15
+
+## March 10, 2025: Mid Term Complete Review + (Passive Attacks, Active Attacks, Fornsic)
+
+## Security Attacks
+- stalking in real life: esponige in cyber security
+
+- forensic: Recources, External/Internal, Manipulation
