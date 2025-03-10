@@ -257,3 +257,13 @@ Classification of cyber crimes
     - SANS: www.sans.org
 
     
+
+
+## March 10, 2025: Mid Term Complete Review + (Passive Attacks, Active Attacks, Fornsic)
+
+## Security Attacks
+- stalking in real life: esponige in cyber security
+
+- forensic: Recources, External/Internal, Manipulation
+
+
