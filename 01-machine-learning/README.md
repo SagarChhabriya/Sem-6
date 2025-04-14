@@ -82,3 +82,20 @@
 - **The Best Fit Line**
 - **Linear Regression - Cost Function**
 - **Linear Regression – Gradient Descent**
+
+
+## Semester Project (Apr 25, 2025)
+  - Complete Project
+  - Documentation [idea submission manual, technology, methods, use case, screens/screenshot]
+  - Poster
+  - Presentation
+  - Deployment
+
+
+## Week Presentation
+  - Topics Clarity
+  - Programs + Diagrams + Architecture Steps
+  - Checklist
+  - Questions (5 For each topics)
+  - Mini Project(Application)
+
