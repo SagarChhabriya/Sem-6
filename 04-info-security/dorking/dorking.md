@@ -2,6 +2,8 @@
 
 Below is a comprehensive list of Google search operators, categorized by functionality and current reliability.
 
+- Also Try out the Google Hacking Database 😜
+
 ## Categories
 
 - **Working** – Fully functional and supported by Google.
@@ -119,4 +121,36 @@ site:github.com inurl:"/blob/" "api_key=" filetype:py
 ```py
 site:github.com inurl:"/blob/" "DB_PASSWORD=" filetype:env
 ```
+
+## 6. LinkedIn 
+```py
+site:linkedin.com intitle:afiniti "Data"
+```
+
+## 7. Confidential Files
+```py
+filetype:pdf intitle:"Confidential" site: edu.pk
+```
+
+## 8. Passwords
+```py
+intitle: "index of" password
+```
+
+
+```py
+intitle:"index of " "*.passwords.txt"
+```
+
+
+## 10. Exposed Webcams
+```py
+"WebcampXP"
+```
+
+## 11. DB Password
+```py
+db_password filetype:env
+```
+
 
