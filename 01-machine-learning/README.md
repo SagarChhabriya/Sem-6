@@ -1,6 +1,6 @@
-5 Python Libraries for Lazy Data Scientists 
+## 5 Python Libraries for Lazy Data Scientists 
 
-🚀 SweetViz: EDA on Autopilot 
+### 🚀 SweetViz: EDA on Autopilot 
 
 Compare datasets, uncover patterns, and generate stunning reports in seconds
 
@@ -22,7 +22,7 @@ Forget running 20+ pandas functions—this tool does it all at once
 
 pip install pandas-profiling
 
-🎯 LazyPredict: Rapid Model Benchmarking 
+### 🎯 LazyPredict: Rapid Model Benchmarking 
 
 Skip the tedious coding—test multiple ML models at once
 
@@ -41,7 +41,7 @@ Optimizes both model selection and hyperparameters—no manual tweaking needed
 
 pip install flaml
 
-🤖 PyCaret: End-to_End ML Automation 
+### 🤖 PyCaret: End-to_End ML Automation 
 
 From data prep to deployment, PyCaret streamlines the entire ML pipeline.
 
