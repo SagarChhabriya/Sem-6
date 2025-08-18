@@ -1,3 +1,6 @@
+
+- [Least Squares Method blog](https://www.cuemath.com/data/least-squares/)
+
 ## 5 Python Libraries for Lazy Data Scientists 
 
 ### 🚀 SweetViz: EDA on Autopilot 
